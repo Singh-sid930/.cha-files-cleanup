@@ -1,0 +1,9 @@
+## this repository contains codes to extract clean text/speech from .cha files and also to count the various parameters such as grammatical errors, repetitions etc. ##
+
+1. task1.py performs the task of cleaning the .cha files 
+2. test script.txt contains the text from the .cha files which also contains a large number of unwanted texts. 
+3. output1.text contains semi cleaned text. 
+4. output2. text contains completely cleaned text. 
+5. task2.py calculates the various parameters in the .cha files such as grammatical mistakes, repetitions etc. 
+
+
